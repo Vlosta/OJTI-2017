@@ -1,0 +1,14 @@
+G:\C# Rezolvari\OJTI 2017\bin\Debug\Turism.mdf
+G:\C# Rezolvari\OJTI 2017\bin\Debug\Turism_log.ldf
+G:\C# Rezolvari\OJTI 2017\bin\Debug\OJTI 2017.exe.config
+G:\C# Rezolvari\OJTI 2017\bin\Debug\OJTI 2017.exe
+G:\C# Rezolvari\OJTI 2017\bin\Debug\OJTI 2017.pdb
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI 2017.csproj.AssemblyReference.cache
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI_2017.Properties.Resources.resources
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI 2017.csproj.GenerateResource.cache
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI 2017.csproj.CoreCompileInputs.cache
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI 2017.exe
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI 2017.pdb
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI_2017.Form1.resources
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI_2017.Form2.resources
+G:\C# Rezolvari\OJTI 2017\obj\Debug\OJTI_2017.Form3.resources
